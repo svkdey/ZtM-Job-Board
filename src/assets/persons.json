@@ -6551,5 +6551,21 @@
 		"state": "England",
 		"country": "United Kingdom"
 		}
+	},
+	{
+		"id": 419,
+		"name": "Souvik Dey",
+		"img": "https://media.licdn.com/dms/image/C5103AQGI8yFxWg-XqA/profile-displayphoto-shrink_200_200/0?e=1567036800&v=beta&t=A1sSXRDAOAvuxmIMV8VoiKy25jhwDAh5KrExbPHzE-w",
+		"links": {
+			"website": "https://reactportfoliobysouvikdey.firebaseapp.com/",
+			"linkedin": "https://www.linkedin.com/in/souvik-dey-57b5b515b",
+			"github": "https://github.com/svkdey"
+		},
+		"jobTitle": "Full-stack/React Developer",
+		"location": {
+			"city": "Kolkata",
+			"state": "West-Bengal",
+			"country": "India"
 		}
+	}
 ]
